@@ -1,16 +1,16 @@
 import streamlit as st
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier
-from sklearn.svm import SVC
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.metrics import accuracy_score, confusion_matrix
+# import pandas as pd
+# from sklearn.model_selection import train_test_split
+# from sklearn.preprocessing import OneHotEncoder
+# from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier, AdaBoostClassifier
+# from sklearn.svm import SVC
+# from sklearn.neighbors import KNeighborsClassifier
+# from sklearn.linear_model import LogisticRegression
+# from sklearn.tree import DecisionTreeClassifier
+# from sklearn.naive_bayes import GaussianNB
+# from sklearn.metrics import accuracy_score, confusion_matrix
 # Streamlit app
-st.title("UNDER MAINTENANCE")
+st.title(" UNDER MAINTENANCE ")
 # Streamlit app
 # st.title("Data Analysis App")
 
